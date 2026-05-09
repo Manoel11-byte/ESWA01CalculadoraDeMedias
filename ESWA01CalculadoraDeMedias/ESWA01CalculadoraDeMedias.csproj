@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>OOPFoundation</RootNamespace>
+    <AssemblyName>ESWA01CalculadoraDeMedias</AssemblyName>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+    <NoWarn>1591</NoWarn>
+    <PackageId>ESWA01CalculadoraDeMedias</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Equipe 01</Authors>
+    <Description>Biblioteca de classes para cálculo de médias semestral e final.</Description>
+  </PropertyGroup>
+
+</Project>

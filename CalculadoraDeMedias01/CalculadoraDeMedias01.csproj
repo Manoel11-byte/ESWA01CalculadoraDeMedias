@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>CalculadoraDeMedias01</AssemblyName>
+    <RootNamespace>CalculadoraDeMedias01</RootNamespace>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ESWA01CalculadoraDeMedias\ESWA01CalculadoraDeMedias.csproj" />
+  </ItemGroup>
+
+</Project>
+ 
