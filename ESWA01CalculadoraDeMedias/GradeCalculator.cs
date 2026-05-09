@@ -23,8 +23,8 @@ namespace ESWA01CalculadoraDeMedias
         public StudentStatus Status { get; init; }
     }
 
-    // MS = (4*NP1 + 4*NP2 + 2*PIM) / 10
-    // MF = (MS + EX) / 2
+    // MEDIA SEMESTRAL = (4*NP1 + 4*NP2 + 2*PIM) / 10
+    // MEDIA FINAL = (MS + EX) / 2
     public class GradeCalculator
     {
         private readonly NoteValidation _noteValidator = new();
