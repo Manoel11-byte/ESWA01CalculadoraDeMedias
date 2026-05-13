@@ -1,3 +1,4 @@
+// Juan Carlos Peixoto
 # ESWA01 — Calculadora de Médias
 
 Projeto da disciplina ESWA+POO, Equipe 01.
