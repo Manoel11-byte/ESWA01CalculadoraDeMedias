@@ -1,4 +1,6 @@
 // Juan Carlos Peixoto
+
+// Joao Vitor Dos Reis Rosa
 # ESWA01 — Calculadora de Médias
 
 Projeto da disciplina ESWA+POO, Equipe 05.
